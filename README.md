@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-This is my personal portfolio website where I showcase my work, skills, and experiences as a developer. Built with HTML/CSS and JavaScript, it is designed to be fast, responsive, and visually appealing. The site aims to give visitors a quick insight into my professional journey and the projects I have worked on.
+This is my personal portfolio website where I showcase my work, skills, and experiences as a developer. Built with HTML/CSS and JavaScript, it's designed to be fast, responsive, and visually appealing. The site aims to give visitors a quick insight into my professional journey and the projects I have worked on.
 
 ## Website Link
 
